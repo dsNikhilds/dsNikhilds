@@ -3,7 +3,7 @@
 - 👀 I’m an aspiring Data Scientist
 - 🌱 I’m currently learning everything :P
 - 💞️ I’m looking to collaborate on data analysis projects
-- 🥅 2020 Goals: Make cool data science projects
+- 🥅 2022 Goals: Make more meaningful data science projects
 - ⚡ Fun fact: I love to read novels and play games
 
 
