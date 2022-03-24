@@ -9,8 +9,8 @@
 
 <!-- Icons -->
 
-[1.2]: https://img.shields.io/badge/nikhil.bhathi001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[2.2]: https://img.shields.io/badge/nikhilbhathi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<!-- [1.2]: https://img.shields.io/badge/nikhil.bhathi001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white -->
+<!-- [2.2]: https://img.shields.io/badge/nikhilbhathi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white -->
 
 <!-- Links to your social media accounts -->
 
