@@ -17,7 +17,7 @@
 [1]: nikhil.bhathi001@gmail.com
 [2]: https://ca.linkedin.com/in/nikhilbhathi
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsNikhilds&show_icons=true&theme=radical)
+<!-- ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsNikhilds&show_icons=true&theme=radical) -->
 
 
 ### Connect with me:
