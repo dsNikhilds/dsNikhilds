@@ -1,9 +1,9 @@
 # Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I’m Nikhil Bhathi
 
-- 👀 I’m an aspiring Data Scientist
+<!--  - 👀 I’m an aspiring Data Scientist -->
 - 🌱 I’m currently learning everything :P
-- 💞️ I’m looking to collaborate on data analysis projects
-- 🥅 2022 Goals: Make more meaningful data science projects
+<!-- - 💞️ I’m looking to collaborate on data analysis projects
+- 🥅 2022 Goals: Make more meaningful data science projects -->
 - ⚡ Fun fact: I love to read novels and play games
 
 
