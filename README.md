@@ -1,4 +1,11 @@
-# Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I’m Nikhil Bhathi
+<h3 align="left">
+    Hi There
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    I'm Nikhil!
+</h3>
 
 - 👀 I’m an aspiring Data Scientist
 - 🌱 I’m currently learning everything :P
