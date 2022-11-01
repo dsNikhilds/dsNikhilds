@@ -7,11 +7,11 @@
     I'm Nikhil!
 </h3>
 
-- 👀 I’m an aspiring Data Scientist
+- 👀 I’m an aspiring Data Scientist.
 - 🌱 I’m currently learning everything :P
-- 💞️ I’m looking to collaborate on cool data analysis projects
-- 🥅 2022 Goals: Make more meaningful data science projects
-- ⚡ Fun fact: I love to read novels and play games
+- 💞️ I’m looking to collaborate on meaningful data science projects.
+- 🥅 2022 Goals: Be the best version of yourself.
+- ⚡ Fun fact: I love to read novels and play games.
 
 
 <!-- Icons -->
