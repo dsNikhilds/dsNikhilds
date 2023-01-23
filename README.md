@@ -10,7 +10,7 @@
 - 👀 I’m an aspiring Data Scientist.
 - 🌱 I’m currently learning everything :P
 - 💞️ I’m looking to collaborate on meaningful data science projects.
-- 🥅 2022 Goals: Be the best version of yourself.
+- 🥅 2023 Goals: Make more out of it.
 - ⚡ Fun fact: I love to read novels and play games.
 
 
